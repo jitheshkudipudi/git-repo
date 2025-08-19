@@ -1,4 +1,4 @@
 console.log("version 4");
 console.log("index.js");
 console.log("fixed bug");
-console.log("bug fixed2");
+console.log("bug fixed3");
